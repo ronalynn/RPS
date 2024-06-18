@@ -5,7 +5,7 @@ This simple console-based Rock-Paper-Scissors game is developed in Python for pr
 ## How to Play
 
 1. **Clone the Repository:**
-   - Clone this repository to your local machine using `git clone <repository-url>`.
+   - Clone this repository to your local machine using `git clone https://github.com/ronalynn/RPS`.
 
 2. **Navigate to the Directory:**
    - Open a terminal or command prompt and navigate to the directory where you cloned the repository.
@@ -13,7 +13,7 @@ This simple console-based Rock-Paper-Scissors game is developed in Python for pr
 3. **Run the Game:**
    - Run the game by executing the Python script:
      ```
-     python rps_game.py
+     python rock_paper_scissor.py
      ```
    - Follow the on-screen instructions to play the game.
 
